@@ -1,0 +1,9 @@
+name: spawnplugin1
+version: '1.0-SNAPSHOT'
+main: mc.Spacecat7773.spawnplugin1.Spawnplugin1
+api-version: '1.21'
+commands:
+  setspawn:
+
+  spawn:
+
